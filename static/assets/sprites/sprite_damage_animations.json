@@ -1,0 +1,2618 @@
+{
+    "anims": [
+        {
+            "key": "player_ship1_lvl1_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl2_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl3_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl4_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl5_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl6_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl7_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl1_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl2_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl3_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl4_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl5_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl6_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl7_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl1_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl2_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl3_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl4_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl5_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl6_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl7_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_damage12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl1_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl2_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl3_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl4_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl5_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl6_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl7_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl1_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl2_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_damage01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_damage02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_damage03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_damage04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_damage05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_damage06.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl3_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl4_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl5_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl6_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl7_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl1_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl2_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl3_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl4_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl5_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl6_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl7_damage",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_damage1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_damage2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_damage3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_damage4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_damage5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_damage6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

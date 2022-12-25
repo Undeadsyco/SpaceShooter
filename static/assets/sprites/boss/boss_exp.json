@@ -1,0 +1,960 @@
+{
+	"frames": [
+		{
+			"filename": "boss_type_exp_large01.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_large02.png",
+			"frame": {
+				"x": 256,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_large03.png",
+			"frame": {
+				"x": 512,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_large04.png",
+			"frame": {
+				"x": 768,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_large05.png",
+			"frame": {
+				"x": 0,
+				"y": 256,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_large06.png",
+			"frame": {
+				"x": 1024,
+				"y": 0,
+				"w": 23,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 23
+			}
+		},
+		{
+			"filename": "boss_type_exp_large07.png",
+			"frame": {
+				"x": 1047,
+				"y": 0,
+				"w": 34,
+				"h": 34
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 34,
+				"h": 34
+			},
+			"sourceSize": {
+				"w": 34,
+				"h": 34
+			}
+		},
+		{
+			"filename": "boss_type_exp_large08.png",
+			"frame": {
+				"x": 1024,
+				"y": 34,
+				"w": 56,
+				"h": 56
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 56
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 56
+			}
+		},
+		{
+			"filename": "boss_type_exp_large09.png",
+			"frame": {
+				"x": 256,
+				"y": 256,
+				"w": 74,
+				"h": 74
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 74,
+				"h": 74
+			},
+			"sourceSize": {
+				"w": 74,
+				"h": 74
+			}
+		},
+		{
+			"filename": "boss_type_exp_large10.png",
+			"frame": {
+				"x": 330,
+				"y": 256,
+				"w": 86,
+				"h": 86
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 86,
+				"h": 86
+			},
+			"sourceSize": {
+				"w": 86,
+				"h": 86
+			}
+		},
+		{
+			"filename": "boss_type_exp_large11.png",
+			"frame": {
+				"x": 416,
+				"y": 256,
+				"w": 97,
+				"h": 97
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 97,
+				"h": 97
+			},
+			"sourceSize": {
+				"w": 97,
+				"h": 97
+			}
+		},
+		{
+			"filename": "boss_type_exp_large12.png",
+			"frame": {
+				"x": 513,
+				"y": 256,
+				"w": 104,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 104,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 104,
+				"h": 104
+			}
+		},
+		{
+			"filename": "boss_type_exp_large13.png",
+			"frame": {
+				"x": 617,
+				"y": 256,
+				"w": 128,
+				"h": 117
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 117
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 117
+			}
+		},
+		{
+			"filename": "boss_type_exp_large14.png",
+			"frame": {
+				"x": 745,
+				"y": 256,
+				"w": 124,
+				"h": 124
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 124,
+				"h": 124
+			},
+			"sourceSize": {
+				"w": 124,
+				"h": 124
+			}
+		},
+		{
+			"filename": "boss_type_exp_large15.png",
+			"frame": {
+				"x": 869,
+				"y": 256,
+				"w": 135,
+				"h": 135
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 135,
+				"h": 135
+			},
+			"sourceSize": {
+				"w": 135,
+				"h": 135
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid01.png",
+			"frame": {
+				"x": 256,
+				"y": 380,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid02.png",
+			"frame": {
+				"x": 512,
+				"y": 380,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid03.png",
+			"frame": {
+				"x": 768,
+				"y": 391,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid04.png",
+			"frame": {
+				"x": 0,
+				"y": 647,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid05.png",
+			"frame": {
+				"x": 256,
+				"y": 647,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid06.png",
+			"frame": {
+				"x": 1024,
+				"y": 90,
+				"w": 20,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 20
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid07.png",
+			"frame": {
+				"x": 1044,
+				"y": 90,
+				"w": 30,
+				"h": 30
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 30,
+				"h": 30
+			},
+			"sourceSize": {
+				"w": 30,
+				"h": 30
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid08.png",
+			"frame": {
+				"x": 1024,
+				"y": 120,
+				"w": 48,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 48,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 48,
+				"h": 48
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid09.png",
+			"frame": {
+				"x": 1024,
+				"y": 168,
+				"w": 65,
+				"h": 65
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 65
+			},
+			"sourceSize": {
+				"w": 65,
+				"h": 65
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid10.png",
+			"frame": {
+				"x": 1004,
+				"y": 256,
+				"w": 76,
+				"h": 76
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 76,
+				"h": 76
+			},
+			"sourceSize": {
+				"w": 76,
+				"h": 76
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid11.png",
+			"frame": {
+				"x": 512,
+				"y": 647,
+				"w": 84,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 84,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 84,
+				"h": 84
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid12.png",
+			"frame": {
+				"x": 596,
+				"y": 647,
+				"w": 91,
+				"h": 91
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 91,
+				"h": 91
+			},
+			"sourceSize": {
+				"w": 91,
+				"h": 91
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid13.png",
+			"frame": {
+				"x": 687,
+				"y": 647,
+				"w": 98,
+				"h": 98
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 98,
+				"h": 98
+			},
+			"sourceSize": {
+				"w": 98,
+				"h": 98
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid14.png",
+			"frame": {
+				"x": 785,
+				"y": 647,
+				"w": 107,
+				"h": 107
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 107,
+				"h": 107
+			},
+			"sourceSize": {
+				"w": 107,
+				"h": 107
+			}
+		},
+		{
+			"filename": "boss_type_exp_mid15.png",
+			"frame": {
+				"x": 892,
+				"y": 647,
+				"w": 117,
+				"h": 117
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 117,
+				"h": 117
+			},
+			"sourceSize": {
+				"w": 117,
+				"h": 117
+			}
+		},
+		{
+			"filename": "boss_type_exp_small01.png",
+			"frame": {
+				"x": 512,
+				"y": 764,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_small02.png",
+			"frame": {
+				"x": 768,
+				"y": 764,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_small03.png",
+			"frame": {
+				"x": 1089,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_small04.png",
+			"frame": {
+				"x": 1080,
+				"y": 256,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_small05.png",
+			"frame": {
+				"x": 1024,
+				"y": 512,
+				"w": 256,
+				"h": 256
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 256
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 256
+			}
+		},
+		{
+			"filename": "boss_type_exp_small06.png",
+			"frame": {
+				"x": 0,
+				"y": 512,
+				"w": 18,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 18
+			}
+		},
+		{
+			"filename": "boss_type_exp_small07.png",
+			"frame": {
+				"x": 18,
+				"y": 512,
+				"w": 27,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 27
+			}
+		},
+		{
+			"filename": "boss_type_exp_small08.png",
+			"frame": {
+				"x": 45,
+				"y": 512,
+				"w": 43,
+				"h": 43
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 43,
+				"h": 43
+			},
+			"sourceSize": {
+				"w": 43,
+				"h": 43
+			}
+		},
+		{
+			"filename": "boss_type_exp_small09.png",
+			"frame": {
+				"x": 88,
+				"y": 512,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		{
+			"filename": "boss_type_exp_small10.png",
+			"frame": {
+				"x": 145,
+				"y": 512,
+				"w": 66,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 66,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 66,
+				"h": 66
+			}
+		},
+		{
+			"filename": "boss_type_exp_small11.png",
+			"frame": {
+				"x": 1024,
+				"y": 768,
+				"w": 75,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 75,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 75,
+				"h": 75
+			}
+		},
+		{
+			"filename": "boss_type_exp_small12.png",
+			"frame": {
+				"x": 1099,
+				"y": 768,
+				"w": 80,
+				"h": 80
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 80,
+				"h": 80
+			},
+			"sourceSize": {
+				"w": 80,
+				"h": 80
+			}
+		},
+		{
+			"filename": "boss_type_exp_small13.png",
+			"frame": {
+				"x": 1179,
+				"y": 768,
+				"w": 92,
+				"h": 92
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 92
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 92
+			}
+		},
+		{
+			"filename": "boss_type_exp_small14.png",
+			"frame": {
+				"x": 1024,
+				"y": 860,
+				"w": 96,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 96,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 96,
+				"h": 96
+			}
+		},
+		{
+			"filename": "boss_type_exp_small15.png",
+			"frame": {
+				"x": 1120,
+				"y": 860,
+				"w": 108,
+				"h": 108
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 108,
+				"h": 108
+			},
+			"sourceSize": {
+				"w": 108,
+				"h": 108
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1345,
+			"h": 1020
+		},
+		"scale": "1"
+	}
+}

@@ -1,0 +1,3974 @@
+{
+    "anims": [
+        {
+            "key": "player_ship1_lvl1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl7_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship1_lvl7_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl7_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship2_lvl7_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl7_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player_ship3_lvl7_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy_ship6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "pirate_ship6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "priate_ship6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "priate_ship6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "priate_ship6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "priate_ship6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "priate_ship6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "alien_ship6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl7_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss1_lvl7_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl7_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss2_lvl7_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl1_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl1_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl2_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl2_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl3_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl3_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl4_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl4_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl5_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl5_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl6_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl6_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl7_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boss3_lvl7_turbo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_turbo1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_turbo2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_turbo3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_turbo4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

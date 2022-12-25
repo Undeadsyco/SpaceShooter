@@ -1,0 +1,1322 @@
+{
+    "anims": [
+        {
+            "key": "icon_anti_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_anti_shield",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_shield1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_shield2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_shield3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_shield4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_anti_speed",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_speed1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_speed2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_speed3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_anti_speed4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_attack_minus",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_attack_minus1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_attack_minus2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_attack_minus3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_attack_minus4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_crystal",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_crystal12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 9,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_defence_minus",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_defence_minus1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_defence_minus2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_defence_minus3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_defence_minus4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_doppelganger",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_doppelganger1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_doppelganger2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_doppelganger3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_doppelganger4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_doppelganger5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_doppelganger6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_doppelganger7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_enemy_speed_down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_enemy_speed_down1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_enemy_speed_down2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_enemy_speed_down3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_energy",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_energy01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_energy11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 11,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_homing",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_homing02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_homing11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 11,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_HP_minus",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_HP_minus1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP_minus2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP_minus3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP_minus4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_HP1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_HP1.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 13,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_ice_bomb",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_ice_bomb9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 9,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_immortality",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_immortality8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_kill_all",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_kill_all1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_kill_all2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_kill_all3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_kill_all4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_kill_all3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_kill_all2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_kill_all1.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_magnet",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_magnet14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 14,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_nuclear_bomb",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_nuclear_bomb1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_nuclear_bomb2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_nuclear_bomb3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_nuclear_bomb4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_nuclear_bomb5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_shield",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_shield1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_shield1.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 13,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_x2_attack",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_attack13.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 13,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_x",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x2_HP10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "icon_x3_attack",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "icons",
+                    "frame": "icon_x3_attack13.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 13,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="60" height="34" tilewidth="64" tileheight="64" infinite="0" nextlayerid="8" nextobjectid="13">
+ <tileset firstgid="1" name="Tiles" tilewidth="64" tileheight="64" tilecount="42" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0012_tile.png"/>
+  </tile>
+  <tile id="1">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0013_tile.png"/>
+  </tile>
+  <tile id="2">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0014_tile.png"/>
+  </tile>
+  <tile id="3">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0015_tile.png"/>
+  </tile>
+  <tile id="4">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0016_tile.png"/>
+  </tile>
+  <tile id="5">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0000_Layer-50.png"/>
+  </tile>
+  <tile id="6">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0001_Layer-49.png"/>
+  </tile>
+  <tile id="7">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0002_Layer-48.png"/>
+  </tile>
+  <tile id="8">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0003_tile.png"/>
+  </tile>
+  <tile id="9">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0004_tile.png"/>
+  </tile>
+  <tile id="10">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0005_tile.png"/>
+  </tile>
+  <tile id="11">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0006_tile.png"/>
+  </tile>
+  <tile id="12">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0007_tile.png"/>
+  </tile>
+  <tile id="13">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0008_tile.png"/>
+  </tile>
+  <tile id="14">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0009_tile.png"/>
+  </tile>
+  <tile id="15">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0010_tile.png"/>
+  </tile>
+  <tile id="16">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0011_tile.png"/>
+  </tile>
+  <tile id="17">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile22.png"/>
+  </tile>
+  <tile id="18">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile23.png"/>
+  </tile>
+  <tile id="19">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile24.png"/>
+  </tile>
+  <tile id="20">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile25.png"/>
+  </tile>
+  <tile id="21">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile1.png"/>
+  </tile>
+  <tile id="22">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile2.png"/>
+  </tile>
+  <tile id="23">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile3.png"/>
+  </tile>
+  <tile id="24">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile4.png"/>
+  </tile>
+  <tile id="25">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile5.png"/>
+  </tile>
+  <tile id="26">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile6.png"/>
+  </tile>
+  <tile id="27">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile7.png"/>
+  </tile>
+  <tile id="28">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile8.png"/>
+  </tile>
+  <tile id="29">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile9.png"/>
+  </tile>
+  <tile id="30">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile10.png"/>
+  </tile>
+  <tile id="31">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile11.png"/>
+  </tile>
+  <tile id="32">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile12.png"/>
+  </tile>
+  <tile id="33">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile13.png"/>
+  </tile>
+  <tile id="34">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile14.png"/>
+  </tile>
+  <tile id="35">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile15.png"/>
+  </tile>
+  <tile id="36">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile16.png"/>
+  </tile>
+  <tile id="37">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile17.png"/>
+  </tile>
+  <tile id="38">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile18.png"/>
+  </tile>
+  <tile id="39">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile19.png"/>
+  </tile>
+  <tile id="40">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile20.png"/>
+  </tile>
+  <tile id="41">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Main_tiles/tile21.png"/>
+  </tile>
+  <wangsets>
+   <wangset name="Stone" type="corner" tile="-1">
+    <wangcolor name="Stone" color="#ff0000" tile="-1" probability="1"/>
+    <wangcolor name="Empty" color="#00ff00" tile="-1" probability="1"/>
+    <wangtile tileid="0" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="1" wangid="0,1,0,2,0,2,0,1"/>
+    <wangtile tileid="2" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="3" wangid="0,2,0,2,0,1,0,1"/>
+    <wangtile tileid="4" wangid="0,1,0,1,0,2,0,2"/>
+    <wangtile tileid="5" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="6" wangid="0,2,0,1,0,1,0,2"/>
+    <wangtile tileid="7" wangid="0,2,0,1,0,2,0,2"/>
+    <wangtile tileid="8" wangid="0,1,0,2,0,2,0,2"/>
+    <wangtile tileid="9" wangid="0,1,0,2,0,2,0,1"/>
+    <wangtile tileid="10" wangid="0,2,0,2,0,1,0,2"/>
+    <wangtile tileid="11" wangid="0,2,0,2,0,2,0,1"/>
+    <wangtile tileid="12" wangid="0,1,0,1,0,2,0,2"/>
+    <wangtile tileid="13" wangid="0,2,0,2,0,1,0,1"/>
+    <wangtile tileid="14" wangid="0,1,0,1,0,1,0,2"/>
+    <wangtile tileid="15" wangid="0,2,0,1,0,1,0,2"/>
+    <wangtile tileid="16" wangid="0,2,0,1,0,1,0,1"/>
+   </wangset>
+   <wangset name="Dirt" type="corner" tile="-1">
+    <wangcolor name="Dirt" color="#ff0000" tile="-1" probability="1"/>
+    <wangtile tileid="17" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="18" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="19" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="20" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="21" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="34" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="35" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="36" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="37" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="38" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="39" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="40" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="41" wangid="0,0,0,1,0,0,0,0"/>
+   </wangset>
+   <wangset name="Dirt+Decor" type="corner" tile="-1">
+    <wangcolor name="Dirt+Decor" color="#ff0000" tile="-1" probability="1"/>
+    <wangtile tileid="21" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="22" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="23" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="24" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="25" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="26" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="27" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="28" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="29" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="30" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="31" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="32" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="33" wangid="0,0,0,1,0,1,0,1"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="43" name="Detais" tilewidth="64" tileheight="64" tilecount="95" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0048_detail.png"/>
+  </tile>
+  <tile id="1">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0017_detail.png"/>
+  </tile>
+  <tile id="2">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0018_detail.png"/>
+  </tile>
+  <tile id="3">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0019_detail.png"/>
+  </tile>
+  <tile id="4">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0020_detail.png"/>
+  </tile>
+  <tile id="5">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0021_detail.png"/>
+  </tile>
+  <tile id="6">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0022_detail.png"/>
+  </tile>
+  <tile id="7">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0023_detail.png"/>
+  </tile>
+  <tile id="8">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0024_detail.png"/>
+  </tile>
+  <tile id="9">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0025_detail.png"/>
+  </tile>
+  <tile id="10">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0026_detail.png"/>
+  </tile>
+  <tile id="11">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0027_detail.png"/>
+  </tile>
+  <tile id="12">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0028_detail.png"/>
+  </tile>
+  <tile id="13">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0029_detail.png"/>
+  </tile>
+  <tile id="14">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0030_detail.png"/>
+  </tile>
+  <tile id="15">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0031_detail.png"/>
+  </tile>
+  <tile id="16">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0032_detail.png"/>
+  </tile>
+  <tile id="17">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0033_detail.png"/>
+  </tile>
+  <tile id="18">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0034_detail.png"/>
+  </tile>
+  <tile id="19">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0035_detail.png"/>
+  </tile>
+  <tile id="20">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0036_detail.png"/>
+  </tile>
+  <tile id="21">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0037_detail.png"/>
+  </tile>
+  <tile id="22">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0038_detail.png"/>
+  </tile>
+  <tile id="23">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0039_detail.png"/>
+  </tile>
+  <tile id="24">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0040_detail.png"/>
+  </tile>
+  <tile id="25">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0041_detail.png"/>
+  </tile>
+  <tile id="26">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0042_detail.png"/>
+  </tile>
+  <tile id="27">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0043_detail.png"/>
+  </tile>
+  <tile id="28">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0044_detail.png"/>
+  </tile>
+  <tile id="29">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0045_detail.png"/>
+  </tile>
+  <tile id="30">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0046_detail.png"/>
+  </tile>
+  <tile id="31">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Stone/stone_0047_detail.png"/>
+  </tile>
+  <tile id="32">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/vein1.png"/>
+  </tile>
+  <tile id="33">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/vein2.png"/>
+  </tile>
+  <tile id="34">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail1.png"/>
+  </tile>
+  <tile id="35">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail2.png"/>
+  </tile>
+  <tile id="36">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail3.png"/>
+  </tile>
+  <tile id="37">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail4.png"/>
+  </tile>
+  <tile id="38">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail4_2.png"/>
+  </tile>
+  <tile id="39">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail5.png"/>
+  </tile>
+  <tile id="40">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail6.png"/>
+  </tile>
+  <tile id="41">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail7.png"/>
+  </tile>
+  <tile id="42">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail8.png"/>
+  </tile>
+  <tile id="43">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail9.png"/>
+  </tile>
+  <tile id="44">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail10.png"/>
+  </tile>
+  <tile id="45">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_detail11.png"/>
+  </tile>
+  <tile id="46">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_tile_big1.png"/>
+  </tile>
+  <tile id="47">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_tile_big2.png"/>
+  </tile>
+  <tile id="48">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_tile_big3.png"/>
+  </tile>
+  <tile id="49">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_tile_small1.png"/>
+  </tile>
+  <tile id="50">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio_tile_small2.png"/>
+  </tile>
+  <tile id="51">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/bio-mech_detail.png"/>
+  </tile>
+  <tile id="52">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/holes1.png"/>
+  </tile>
+  <tile id="53">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/holes2.png"/>
+  </tile>
+  <tile id="54">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/holes3.png"/>
+  </tile>
+  <tile id="55">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/holes4.png"/>
+  </tile>
+  <tile id="56">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/holes5.png"/>
+  </tile>
+  <tile id="57">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/holes6.png"/>
+  </tile>
+  <tile id="58">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mch_detail1.png"/>
+  </tile>
+  <tile id="59">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech_detail2.png"/>
+  </tile>
+  <tile id="60">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech_detail3.png"/>
+  </tile>
+  <tile id="61">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech_detail4.png"/>
+  </tile>
+  <tile id="62">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech-bio_detail2.png"/>
+  </tile>
+  <tile id="63">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech-bio_detail3.png"/>
+  </tile>
+  <tile id="64">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech-bio_detail4.png"/>
+  </tile>
+  <tile id="65">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech-bio_detail5.png"/>
+  </tile>
+  <tile id="66">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech-bio_detail6.png"/>
+  </tile>
+  <tile id="67">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/mech-bio_detail7.png"/>
+  </tile>
+  <tile id="68">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/metal_tile1.png"/>
+  </tile>
+  <tile id="69">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/metal_tile2.png"/>
+  </tile>
+  <tile id="70">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/metal_tile3.png"/>
+  </tile>
+  <tile id="71">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/metal-bio-tile1.png"/>
+  </tile>
+  <tile id="72">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/metal-bio-tile2.png"/>
+  </tile>
+  <tile id="73">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/metal-bio-tile3.png"/>
+  </tile>
+  <tile id="74">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/vein_tile1.png"/>
+  </tile>
+  <tile id="75">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/vein_tile2.png"/>
+  </tile>
+  <tile id="76">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/PNG_Tiles/Details/vein_tile3.png"/>
+  </tile>
+  <tile id="77">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0015_object.png"/>
+  </tile>
+  <tile id="78">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0016_object.png"/>
+  </tile>
+  <tile id="79">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0017_object.png"/>
+  </tile>
+  <tile id="80">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0000_tile.png"/>
+  </tile>
+  <tile id="81">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0001_tile.png"/>
+  </tile>
+  <tile id="82">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0002_tile.png"/>
+  </tile>
+  <tile id="83">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0003_tile.png"/>
+  </tile>
+  <tile id="84">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0004_tile.png"/>
+  </tile>
+  <tile id="85">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0005_tile.png"/>
+  </tile>
+  <tile id="86">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0006_object.png"/>
+  </tile>
+  <tile id="87">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0007_object.png"/>
+  </tile>
+  <tile id="88">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0008_object.png"/>
+  </tile>
+  <tile id="89">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0009_tile.png"/>
+  </tile>
+  <tile id="90">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0010_tile.png"/>
+  </tile>
+  <tile id="91">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0011_tile.png"/>
+  </tile>
+  <tile id="92">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0012_tile.png"/>
+  </tile>
+  <tile id="93">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0013_tile.png"/>
+  </tile>
+  <tile id="94">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Tiles/Metal/metal_0014_tile.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="138" name="Icons" tilewidth="128" tileheight="128" tilecount="169" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/13.png"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/14.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/15.png"/>
+  </tile>
+  <tile id="3">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/16.png"/>
+  </tile>
+  <tile id="4">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/17.png"/>
+  </tile>
+  <tile id="5">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/18.png"/>
+  </tile>
+  <tile id="6">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/19.png"/>
+  </tile>
+  <tile id="7">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/20.png"/>
+  </tile>
+  <tile id="8">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/1.png"/>
+  </tile>
+  <tile id="9">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/2.png"/>
+  </tile>
+  <tile id="10">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/3.png"/>
+  </tile>
+  <tile id="11">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/4.png"/>
+  </tile>
+  <tile id="12">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/5.png"/>
+  </tile>
+  <tile id="13">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/6.png"/>
+  </tile>
+  <tile id="14">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/7.png"/>
+  </tile>
+  <tile id="15">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/8.png"/>
+  </tile>
+  <tile id="16">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/9.png"/>
+  </tile>
+  <tile id="17">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/10.png"/>
+  </tile>
+  <tile id="18">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/11.png"/>
+  </tile>
+  <tile id="19">
+   <image width="128" height="128" source="../../../../../assets/space-shooter/pixel-art-sci-fi-icons-pack/PNG/12.png"/>
+  </tile>
+  <tile id="20">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attack_minus/attack_minus1.png"/>
+  </tile>
+  <tile id="21">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attack_minus/attack_minus2.png"/>
+  </tile>
+  <tile id="22">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attack_minus/attack_minus3.png"/>
+  </tile>
+  <tile id="23">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attack_minus/attack_minus4.png"/>
+  </tile>
+  <tile id="24">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_13.png"/>
+  </tile>
+  <tile id="25">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_1.png"/>
+  </tile>
+  <tile id="26">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_2.png"/>
+  </tile>
+  <tile id="27">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_3.png"/>
+  </tile>
+  <tile id="28">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_4.png"/>
+  </tile>
+  <tile id="29">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_5.png"/>
+  </tile>
+  <tile id="30">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_6.png"/>
+  </tile>
+  <tile id="31">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_7.png"/>
+  </tile>
+  <tile id="32">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_8.png"/>
+  </tile>
+  <tile id="33">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_9.png"/>
+  </tile>
+  <tile id="34">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_10.png"/>
+  </tile>
+  <tile id="35">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_11.png"/>
+  </tile>
+  <tile id="36">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx2/attackx2_12.png"/>
+  </tile>
+  <tile id="37">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_10.png"/>
+  </tile>
+  <tile id="38">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_11.png"/>
+  </tile>
+  <tile id="39">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_12.png"/>
+  </tile>
+  <tile id="40">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_13.png"/>
+  </tile>
+  <tile id="41">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_1.png"/>
+  </tile>
+  <tile id="42">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_2.png"/>
+  </tile>
+  <tile id="43">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_3.png"/>
+  </tile>
+  <tile id="44">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_4.png"/>
+  </tile>
+  <tile id="45">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_5.png"/>
+  </tile>
+  <tile id="46">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_6.png"/>
+  </tile>
+  <tile id="47">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_7.png"/>
+  </tile>
+  <tile id="48">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_8.png"/>
+  </tile>
+  <tile id="49">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/attackx3/attackx3_9.png"/>
+  </tile>
+  <tile id="50">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/defence_minus/defence_minus1.png"/>
+  </tile>
+  <tile id="51">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/defence_minus/defence_minus2.png"/>
+  </tile>
+  <tile id="52">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/defence_minus/defence_minus3.png"/>
+  </tile>
+  <tile id="53">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/defence_minus/defence_minus4.png"/>
+  </tile>
+  <tile id="54">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/doppelganger/doppelganger1.png"/>
+  </tile>
+  <tile id="55">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/doppelganger/doppelganger2.png"/>
+  </tile>
+  <tile id="56">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/doppelganger/doppelganger3.png"/>
+  </tile>
+  <tile id="57">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/doppelganger/doppelganger4.png"/>
+  </tile>
+  <tile id="58">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/doppelganger/doppelganger5.png"/>
+  </tile>
+  <tile id="59">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/doppelganger/doppelganger6.png"/>
+  </tile>
+  <tile id="60">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/doppelganger/doppelganger7.png"/>
+  </tile>
+  <tile id="61">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/hit_point_minus/hit_point_minus1.png"/>
+  </tile>
+  <tile id="62">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/hit_point_minus/hit_point_minus2.png"/>
+  </tile>
+  <tile id="63">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/hit_point_minus/hit_point_minus3.png"/>
+  </tile>
+  <tile id="64">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/hit_point_minus/hit_point_minus4.png"/>
+  </tile>
+  <tile id="65">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/homing/homing0.png"/>
+  </tile>
+  <tile id="66">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/homing/homing1.png"/>
+  </tile>
+  <tile id="67">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/homing/homing2.png"/>
+  </tile>
+  <tile id="68">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/homing/homing3.png"/>
+  </tile>
+  <tile id="69">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/homing/homing4.png"/>
+  </tile>
+  <tile id="70">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/homing/homing5.png"/>
+  </tile>
+  <tile id="71">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_1.png"/>
+  </tile>
+  <tile id="72">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_2.png"/>
+  </tile>
+  <tile id="73">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_3.png"/>
+  </tile>
+  <tile id="74">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_4.png"/>
+  </tile>
+  <tile id="75">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_5.png"/>
+  </tile>
+  <tile id="76">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_6.png"/>
+  </tile>
+  <tile id="77">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_7.png"/>
+  </tile>
+  <tile id="78">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_8.png"/>
+  </tile>
+  <tile id="79">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_9.png"/>
+  </tile>
+  <tile id="80">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/HPx2/HPx2_10.png"/>
+  </tile>
+  <tile id="81">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb1.png"/>
+  </tile>
+  <tile id="82">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb2.png"/>
+  </tile>
+  <tile id="83">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb3.png"/>
+  </tile>
+  <tile id="84">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb4.png"/>
+  </tile>
+  <tile id="85">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb5.png"/>
+  </tile>
+  <tile id="86">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb6.png"/>
+  </tile>
+  <tile id="87">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb7.png"/>
+  </tile>
+  <tile id="88">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb8.png"/>
+  </tile>
+  <tile id="89">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/ice_bomb/ice_bomb9.png"/>
+  </tile>
+  <tile id="90">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet1.png"/>
+  </tile>
+  <tile id="91">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet2.png"/>
+  </tile>
+  <tile id="92">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet3.png"/>
+  </tile>
+  <tile id="93">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet4.png"/>
+  </tile>
+  <tile id="94">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet5.png"/>
+  </tile>
+  <tile id="95">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet6.png"/>
+  </tile>
+  <tile id="96">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet7.png"/>
+  </tile>
+  <tile id="97">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet8.png"/>
+  </tile>
+  <tile id="98">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet9.png"/>
+  </tile>
+  <tile id="99">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet10.png"/>
+  </tile>
+  <tile id="100">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet11.png"/>
+  </tile>
+  <tile id="101">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/magnet/magnet12.png"/>
+  </tile>
+  <tile id="102">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/nuclear_bomb/nuclear_bomb1.png"/>
+  </tile>
+  <tile id="103">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/nuclear_bomb/nuclear_bomb2.png"/>
+  </tile>
+  <tile id="104">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/nuclear_bomb/nuclear_bomb3.png"/>
+  </tile>
+  <tile id="105">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/nuclear_bomb/nuclear_bomb4.png"/>
+  </tile>
+  <tile id="106">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-2d-tileset/Icons_PNG&amp;Spriter_Animation/nuclear_bomb/nuclear_bomb5.png"/>
+  </tile>
+  <tile id="107">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-defence/anti-shield.png"/>
+  </tile>
+  <tile id="108">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-defence/anti-shield2.png"/>
+  </tile>
+  <tile id="109">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-defence/anti-shield3.png"/>
+  </tile>
+  <tile id="110">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-defence/anti-shield4.png"/>
+  </tile>
+  <tile id="111">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-fire/anti-fire.png"/>
+  </tile>
+  <tile id="112">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-fire/anti-fire2.png"/>
+  </tile>
+  <tile id="113">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-fire/anti-fire3.png"/>
+  </tile>
+  <tile id="114">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-fire/anti-fire4.png"/>
+  </tile>
+  <tile id="115">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-speed/anti-speed.png"/>
+  </tile>
+  <tile id="116">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-speed/anti-speed2.png"/>
+  </tile>
+  <tile id="117">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-speed/anti-speed3.png"/>
+  </tile>
+  <tile id="118">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Anti-speed/anti-speed4.png"/>
+  </tile>
+  <tile id="119">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal1.png"/>
+  </tile>
+  <tile id="120">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal2.png"/>
+  </tile>
+  <tile id="121">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal3.png"/>
+  </tile>
+  <tile id="122">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal4.png"/>
+  </tile>
+  <tile id="123">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal5.png"/>
+  </tile>
+  <tile id="124">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal6.png"/>
+  </tile>
+  <tile id="125">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal7.png"/>
+  </tile>
+  <tile id="126">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal8.png"/>
+  </tile>
+  <tile id="127">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal9.png"/>
+  </tile>
+  <tile id="128">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal10.png"/>
+  </tile>
+  <tile id="129">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal11.png"/>
+  </tile>
+  <tile id="130">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Crystal/Crystal12.png"/>
+  </tile>
+  <tile id="131">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Defence/Shield1.png"/>
+  </tile>
+  <tile id="132">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Defence/Shield2.png"/>
+  </tile>
+  <tile id="133">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Defence/Shield3.png"/>
+  </tile>
+  <tile id="134">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Defence/Shield4.png"/>
+  </tile>
+  <tile id="135">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Defence/Shield5.png"/>
+  </tile>
+  <tile id="136">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Enemy_kill_all/kill_all.png"/>
+  </tile>
+  <tile id="137">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Enemy_kill_all/kill_all2.png"/>
+  </tile>
+  <tile id="138">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Enemy_kill_all/kill_all3.png"/>
+  </tile>
+  <tile id="139">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Enemy_kill_all/kill_all4.png"/>
+  </tile>
+  <tile id="140">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Enemy_speed_down/enemy_speed_down1.png"/>
+  </tile>
+  <tile id="141">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Enemy_speed_down/enemy_speed_down2.png"/>
+  </tile>
+  <tile id="142">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Enemy_speed_down/enemy_speed_down3.png"/>
+  </tile>
+  <tile id="143">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy11.png"/>
+  </tile>
+  <tile id="144">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy4.png"/>
+  </tile>
+  <tile id="145">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy5.png"/>
+  </tile>
+  <tile id="146">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy6.png"/>
+  </tile>
+  <tile id="147">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy7.png"/>
+  </tile>
+  <tile id="148">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy8.png"/>
+  </tile>
+  <tile id="149">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy9.png"/>
+  </tile>
+  <tile id="150">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Energy/energy10.png"/>
+  </tile>
+  <tile id="151">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Fire/Fire1.png"/>
+  </tile>
+  <tile id="152">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Fire/Fire2.png"/>
+  </tile>
+  <tile id="153">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Fire/Fire3.png"/>
+  </tile>
+  <tile id="154">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Fire/Fire4.png"/>
+  </tile>
+  <tile id="155">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Fire/Fire5.png"/>
+  </tile>
+  <tile id="156">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Hit_Point/HP1.png"/>
+  </tile>
+  <tile id="157">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Hit_Point/HP2.png"/>
+  </tile>
+  <tile id="158">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Hit_Point/HP3.png"/>
+  </tile>
+  <tile id="159">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Hit_Point/HP4.png"/>
+  </tile>
+  <tile id="160">
+   <image width="32" height="32" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Hit_Point/HP5.png"/>
+  </tile>
+  <tile id="161">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality8.png"/>
+  </tile>
+  <tile id="162">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality1.png"/>
+  </tile>
+  <tile id="163">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality2.png"/>
+  </tile>
+  <tile id="164">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality3.png"/>
+  </tile>
+  <tile id="165">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality4.png"/>
+  </tile>
+  <tile id="166">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality5.png"/>
+  </tile>
+  <tile id="167">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality6.png"/>
+  </tile>
+  <tile id="168">
+   <image width="64" height="64" source="../../../../../assets/space-shooter/pixel-art-space-shooter-game-tileset/Icons_PNG&amp;Spriter_Animation/Immortality/Immortality7.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="DirtLayer" width="60" height="34">
+  <data encoding="csv">
+21,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,20,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,21,36,36,36,36,36,36,20,22,22,22,22,22,22,22,22,22,22,22,22,22,22,
+39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,21,35,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,
+39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,
+39,0,0,0,0,0,42,41,41,41,41,41,41,40,0,0,0,0,0,37,20,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,21,35,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,
+39,0,0,0,0,42,18,22,22,22,22,22,22,19,41,40,0,0,0,0,37,20,22,22,22,22,22,22,22,22,22,22,22,21,36,36,35,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,
+39,0,0,0,0,38,22,22,22,22,22,22,22,22,22,19,0,0,0,0,0,37,36,36,20,22,22,22,22,22,22,22,21,35,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,22,22,22,22,22,22,22,22,22,22,
+39,0,0,0,0,38,22,22,22,22,22,22,22,22,22,21,0,0,0,0,0,0,0,0,37,36,36,20,22,22,22,21,35,0,0,0,0,0,0,0,0,0,0,0,0,0,37,36,36,20,22,22,22,22,22,22,21,36,36,20,
+19,23,0,0,0,38,22,22,22,22,22,21,36,36,36,35,0,0,0,0,0,0,0,0,0,0,0,37,36,36,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,22,21,35,0,0,38,
+22,34,23,0,0,37,36,20,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,36,36,36,36,35,0,0,0,38,
+22,22,24,0,0,0,0,37,36,36,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,
+22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,
+22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,41,41,41,41,41,41,41,41,41,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,41,41,40,38,
+22,22,24,0,0,0,0,0,0,0,0,0,42,41,41,40,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,19,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,18,22,22,19,18,
+22,22,24,0,0,0,0,0,0,42,41,41,18,22,22,19,40,0,0,0,0,0,0,0,42,41,18,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,
+29,29,25,0,0,0,0,0,0,38,22,22,22,22,22,22,39,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,
+0,0,0,0,0,0,0,0,42,18,22,22,22,22,22,22,39,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,19,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,
+0,0,0,0,0,0,0,0,38,22,22,22,22,22,21,36,35,0,0,0,0,0,0,42,18,22,22,22,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,18,22,22,22,22,22,
+0,0,0,0,0,0,0,42,18,22,22,22,22,22,39,0,0,0,0,0,0,0,42,18,22,22,22,22,22,22,22,22,22,22,22,22,22,21,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,
+0,0,0,0,0,0,0,37,36,36,36,36,36,36,35,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,18,22,22,22,22,22,22,
+26,26,26,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,18,22,22,22,22,22,22,22,22,22,22,22,22,21,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,
+22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,18,22,22,22,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,
+22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,22,22,22,
+22,22,22,24,0,0,0,0,0,0,42,41,40,0,0,0,0,0,0,0,37,36,36,36,36,36,36,20,22,22,22,22,22,22,22,19,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,22,22,
+22,22,31,25,0,0,0,42,41,41,18,22,19,40,0,0,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,22,22,22,22,19,41,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,22,
+22,31,25,0,0,0,42,18,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,
+21,25,0,0,0,42,18,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,19,40,0,0,0,0,0,42,41,41,41,41,40,0,0,0,0,0,37,36,36,20,
+39,0,0,0,42,18,22,22,22,22,22,22,21,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,0,38,22,22,22,22,39,0,0,0,0,0,0,0,0,38,
+39,0,0,0,38,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,20,22,22,22,22,22,22,22,22,21,35,0,0,0,0,0,38,22,22,22,22,19,40,0,0,0,0,0,0,0,38,
+39,0,0,0,38,22,22,22,22,22,22,21,35,0,0,0,0,42,41,41,41,41,40,0,0,0,0,0,0,37,36,36,36,36,36,36,36,36,35,0,0,0,0,0,42,18,22,22,22,22,22,39,0,0,0,0,0,0,0,38,
+39,0,0,0,37,36,20,22,22,22,22,39,0,0,0,0,42,18,22,22,22,22,19,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,19,40,0,0,0,0,0,0,38,
+39,0,0,0,0,0,37,36,36,36,36,35,0,0,0,0,38,22,22,22,22,22,22,19,41,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,18,22,22,22,22,22,22,22,19,40,0,0,0,0,0,38,
+39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,18,22,22,22,22,22,22,22,22,22,19,40,0,0,0,0,38,
+39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,22,22,22,22,22,22,22,22,22,22,22,39,0,0,0,0,38,
+19,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,18,22,22,22,22,22,22,22,22,19,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,18,22,22,22,22,22,22,22,22,22,22,22,19,41,41,41,41,18
+</data>
+ </layer>
+ <layer id="2" name="DirtDecorLayer" width="60" height="34">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,32,22,22,22,34,26,23,0,0,0,0,0,0,0,0,0,28,22,22,22,22,24,0,0,0,30,32,22,22,22,22,22,22,34,23,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,27,26,26,23,0,0,0,0,0,0,0,30,32,22,22,22,22,34,23,0,0,0,0,0,0,0,27,33,22,22,22,22,24,0,0,0,27,33,22,22,22,22,22,22,31,25,0,0,0,0,0,0,0,
+0,0,0,0,0,27,26,33,22,22,34,23,0,0,0,0,0,0,0,28,22,22,22,22,22,24,0,0,0,0,0,0,27,33,22,22,22,22,22,24,0,0,0,28,22,22,22,22,22,22,22,24,0,0,0,27,26,23,27,26,
+0,0,0,0,0,28,22,22,22,22,31,25,0,0,0,0,0,0,27,33,22,22,22,22,31,25,0,0,0,0,0,0,28,22,22,22,22,22,31,25,0,0,0,30,29,32,22,22,22,22,31,25,0,27,26,33,22,34,33,22,
+0,0,0,0,27,33,22,22,22,31,25,0,0,0,0,0,0,0,28,22,22,22,22,22,24,0,0,0,0,0,0,0,28,22,22,22,22,22,24,0,0,0,0,0,0,30,32,22,22,31,25,0,27,33,22,22,22,22,22,22,
+0,0,0,0,28,22,22,22,22,24,0,0,0,0,0,0,0,0,30,32,22,22,22,22,24,0,0,0,0,0,0,0,30,29,29,32,22,31,25,0,0,0,0,0,0,0,30,29,29,25,0,0,28,22,22,22,22,22,22,22,
+0,0,0,0,28,22,22,22,31,25,0,0,0,0,0,0,0,0,0,30,29,32,22,31,25,0,0,0,0,0,0,0,0,0,0,30,29,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,29,32,22,22,22,22,22,
+0,0,0,0,30,29,32,22,24,0,0,0,0,0,0,0,0,0,0,0,0,30,29,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,31,29,32,22,
+0,0,0,0,0,0,28,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,29,25,0,30,32,
+0,0,0,0,0,0,30,29,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,26,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,27,26,23,0,0,0,0,0,0,0,0,0,27,26,33,22,34,26,23,0,0,0,27,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,26,23,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,34,26,23,0,0,0,0,0,0,0,28,22,22,22,22,22,24,0,0,27,33,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,26,33,22,34,26,
+0,0,0,0,0,0,0,0,0,0,0,0,0,30,32,22,22,34,23,0,0,0,0,0,0,28,22,22,22,22,22,24,0,27,33,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,22,22,22,31,
+0,0,0,0,0,0,0,0,27,26,23,0,0,0,28,22,22,22,24,0,0,0,0,0,0,30,29,32,22,22,22,24,27,33,22,22,22,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,32,22,22,22,34,
+0,0,0,0,0,0,0,27,33,22,34,26,23,0,30,29,29,29,25,0,0,0,27,26,23,0,0,28,22,22,22,24,28,22,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,29,29,29,29,
+0,0,0,0,0,0,0,28,22,22,22,22,34,23,0,0,0,0,0,0,0,27,33,22,34,26,23,30,29,32,31,25,30,32,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,27,33,22,22,22,22,22,24,0,0,0,0,0,0,0,28,22,22,22,22,24,0,0,30,25,0,0,28,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,27,26,26,26,23,0,0,0,0,0,
+0,0,0,0,0,0,30,29,32,22,31,29,29,25,0,0,0,0,0,0,0,30,32,22,22,22,24,0,0,0,0,0,0,30,29,32,22,31,25,0,0,0,0,0,0,0,0,0,0,0,28,22,22,22,34,26,23,0,0,0,
+0,0,0,0,0,0,0,0,30,29,25,0,0,0,0,0,0,0,0,0,0,27,33,22,22,22,34,23,0,0,0,0,0,0,0,30,29,25,0,0,0,0,0,0,0,0,0,0,0,27,33,22,22,22,22,22,24,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,33,22,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,22,22,22,22,22,24,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,22,22,22,22,22,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,32,22,22,22,22,22,24,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,22,31,29,32,22,22,24,0,0,0,27,26,26,26,23,0,0,0,0,0,0,0,0,0,0,0,0,0,30,32,22,22,31,29,25,0,0,0,
+0,0,0,0,0,0,27,26,23,0,0,0,0,0,0,0,0,0,0,0,30,29,29,25,0,30,29,29,25,0,27,26,33,22,22,22,34,26,23,0,0,0,0,0,0,0,0,0,0,0,0,30,29,29,25,0,0,0,0,0,
+0,0,0,0,0,27,33,22,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,26,33,22,22,22,22,22,22,22,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,27,33,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,33,22,22,22,22,22,22,22,22,22,22,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,28,22,22,22,22,34,26,26,26,23,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,22,22,22,22,22,22,22,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,28,22,22,22,22,22,22,22,31,25,0,0,0,0,0,0,0,0,0,0,0,0,0,30,32,22,22,22,22,22,22,22,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,28,22,22,22,22,22,22,22,24,0,0,0,0,27,26,23,0,0,0,0,0,0,0,0,30,32,22,31,29,29,32,22,31,29,32,31,25,0,0,0,0,0,0,0,0,0,27,26,23,0,0,0,0,0,0,0,
+0,0,0,0,30,29,32,22,22,22,22,31,25,0,0,0,27,33,22,34,26,23,0,0,0,0,0,0,0,30,29,25,0,0,30,29,25,0,30,25,0,0,0,0,27,26,23,0,0,27,33,22,34,23,0,0,0,0,0,0,
+0,0,0,0,0,0,30,29,29,29,29,25,0,0,0,0,28,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,33,22,34,23,0,28,22,22,22,34,26,23,0,0,0,0,
+26,23,0,0,0,0,0,0,0,0,0,0,0,0,0,27,33,22,22,22,22,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,33,22,22,22,24,0,28,22,22,22,22,22,24,0,0,0,0,
+22,34,26,23,0,0,0,0,0,0,0,0,0,0,27,33,22,22,22,22,22,22,34,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,22,22,22,24,0,28,22,22,22,22,22,24,0,0,0,0,
+22,22,22,34,23,0,0,0,0,0,0,0,0,27,33,22,22,22,22,22,22,22,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,22,22,22,31,25,27,33,31,29,29,32,22,24,0,0,0,0
+</data>
+ </layer>
+ <layer id="3" name="StoneLayer" width="60" height="34">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,5,6,17,7,7,11,0,0,0,0,0,0,0,0,0,8,7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,16,11,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,5,6,6,6,6,14,0,0,8,7,16,7,16,16,7,15,6,17,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,15,6,17,16,11,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,9,1,6,6,6,4,0,0,9,1,6,6,6,6,6,6,6,6,17,7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,6,6,6,6,6,17,16,7,11,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,9,2,1,6,14,0,0,0,9,2,1,6,6,6,6,6,6,6,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,1,6,6,6,6,6,6,14,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,9,10,12,0,0,0,0,0,9,2,10,10,10,2,10,10,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,6,6,6,6,6,4,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,6,6,6,6,14,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,2,2,2,12,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,16,7,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,15,6,6,6,6,17,7,7,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,7,16,7,11,0,0,0,0,0,0,0,0,0,0,13,6,6,6,6,6,6,6,6,6,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,8,15,6,6,6,4,0,0,0,0,0,0,0,0,0,8,15,6,6,6,6,6,6,6,3,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,11,0,0,0,
+0,0,0,0,0,0,0,0,8,15,6,6,3,10,12,0,0,0,0,0,0,0,0,0,13,6,6,6,3,10,10,10,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,6,4,0,0,0,
+0,0,0,0,0,0,0,0,9,10,2,10,12,0,0,0,0,0,0,0,0,0,0,0,9,2,2,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,4,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,6,6,14,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,3,12,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,16,7,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,10,2,12,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,6,6,6,17,11,0,0,0,0,0,8,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,6,6,6,6,6,14,0,0,0,0,0,5,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,6,6,6,6,17,11,0,0,0,8,15,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,8,16,11,0,0,0,0,0,0,0,5,6,6,3,10,1,6,6,14,0,0,0,13,6,6,17,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,8,16,15,6,17,11,0,0,0,0,0,0,9,2,10,12,0,9,10,2,12,0,0,0,13,6,6,6,17,7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,8,15,6,6,6,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,6,6,6,6,6,17,11,0,0,0,0,0,8,16,7,11,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,13,6,6,6,6,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,6,6,6,6,6,17,11,0,0,0,8,15,6,6,17,11,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,9,2,1,6,6,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,6,6,6,6,6,4,0,0,0,5,6,6,6,6,14,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,13,6,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,6,6,6,6,4,0,0,0,5,6,6,3,2,12,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,9,2,12,0,0,0,0,0,0,8,16,7,16,11,0,0,0,0,0,0,0,0,0,0,0,0,9,10,10,2,2,12,0,0,0,5,6,3,12,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,6,17,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,12,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,6,6,6,17,7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,1,6,6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,6,6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,1,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="7" name="Spawns">
+  <object id="1" gid="203" x="2688" y="384" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="2" gid="203" x="3584" y="1856" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="3" gid="203" x="3328" y="768" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="4" gid="203" x="2368" y="576" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="5" gid="203" x="2688" y="1408" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="6" gid="203" x="1536" y="1664" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="7" gid="203" x="1024" y="1408" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="8" gid="203" x="192" y="1984" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="9" gid="203" x="320" y="704" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="10" gid="203" x="1088" y="384" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+  <object id="11" gid="203" x="2816" y="832" width="64" height="64">
+   <properties>
+    <property name="maxEnemyNum" type="int" value="5"/>
+    <property name="spawnRadius" type="int" value="192"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

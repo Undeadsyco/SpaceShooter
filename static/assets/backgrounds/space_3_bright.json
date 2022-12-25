@@ -1,0 +1,99 @@
+{
+	"frames": [
+		{
+			"filename": "light_stream.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 960,
+				"h": 540
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 960,
+				"h": 540
+			},
+			"sourceSize": {
+				"w": 960,
+				"h": 540
+			}
+		},
+		{
+			"filename": "planets1.png",
+			"frame": {
+				"x": 963,
+				"y": 1,
+				"w": 960,
+				"h": 540
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 960,
+				"h": 540
+			},
+			"sourceSize": {
+				"w": 960,
+				"h": 540
+			}
+		},
+		{
+			"filename": "planets2.png",
+			"frame": {
+				"x": 1925,
+				"y": 1,
+				"w": 960,
+				"h": 540
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 960,
+				"h": 540
+			},
+			"sourceSize": {
+				"w": 960,
+				"h": 540
+			}
+		},
+		{
+			"filename": "stars.png",
+			"frame": {
+				"x": 2887,
+				"y": 1,
+				"w": 960,
+				"h": 540
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 960,
+				"h": 540
+			},
+			"sourceSize": {
+				"w": 960,
+				"h": 540
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 3848,
+			"h": 542
+		},
+		"scale": "1"
+	}
+}

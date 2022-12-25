@@ -1,0 +1,138 @@
+{
+    "section1": {
+        "files": [
+            {
+                "atlasURL": "assets/sprites/aliens/aliens.json",
+                "textureURL": "assets/sprites/aliens/aliens.png",
+                "type": "atlas",
+                "key": "aliens"
+            },
+            {
+                "atlasURL": "assets/sprites/boss/boss_exp.json",
+                "textureURL": "assets/sprites/boss/boss_exp.png",
+                "type": "atlas",
+                "key": "boss_exp"
+            },
+            {
+                "atlasURL": "assets/sprites/boss/bosses.json",
+                "textureURL": "assets/sprites/boss/bosses.png",
+                "type": "atlas",
+                "key": "bosses"
+            },
+            {
+                "atlasURL": "assets/sprites/enemies/enemies.json",
+                "textureURL": "assets/sprites/enemies/enemies.png",
+                "type": "atlas",
+                "key": "enemies"
+            },
+            {
+                "url": "assets/sprites/exp_animations.json",
+                "type": "animation",
+                "key": "exp_animations"
+            },
+            {
+                "atlasURL": "assets/gui/gui.json",
+                "textureURL": "assets/gui/gui.png",
+                "type": "atlas",
+                "key": "gui"
+            },
+            {
+                "atlasURL": "assets/sprites/icons/icons.json",
+                "textureURL": "assets/sprites/icons/icons.png",
+                "type": "atlas",
+                "key": "icons"
+            },
+            {
+                "url": "assets/sprites/icons_animations.json",
+                "type": "animation",
+                "key": "icons_animations"
+            },
+            {
+                "atlasURL": "assets/sprites/pirates/pirate.json",
+                "textureURL": "assets/sprites/pirates/pirate.png",
+                "type": "atlas",
+                "key": "pirate"
+            },
+            {
+                "atlasURL": "assets/sprites/player/player.json",
+                "textureURL": "assets/sprites/player/player.png",
+                "type": "atlas",
+                "key": "player"
+            },
+            {
+                "atlasURL": "assets/backgrounds/space_1_bright.json",
+                "textureURL": "assets/backgrounds/space_1_bright.png",
+                "type": "atlas",
+                "key": "space_1_bright"
+            },
+            {
+                "atlasURL": "assets/backgrounds/space_2_bright.json",
+                "textureURL": "assets/backgrounds/space_2_bright.png",
+                "type": "atlas",
+                "key": "space_2_bright"
+            },
+            {
+                "atlasURL": "assets/backgrounds/space_3_bright.json",
+                "textureURL": "assets/backgrounds/space_3_bright.png",
+                "type": "atlas",
+                "key": "space_3_bright"
+            },
+            {
+                "atlasURL": "assets/backgrounds/space_4_bright.json",
+                "textureURL": "assets/backgrounds/space_4_bright.png",
+                "type": "atlas",
+                "key": "space_4_bright"
+            },
+            {
+                "atlasURL": "assets/backgrounds/space_5_bright.json",
+                "textureURL": "assets/backgrounds/space_5_bright.png",
+                "type": "atlas",
+                "key": "space_5_bright"
+            },
+            {
+                "atlasURL": "assets/backgrounds/space_6_bright.json",
+                "textureURL": "assets/backgrounds/space_6_bright.png",
+                "type": "atlas",
+                "key": "space_6_bright"
+            },
+            {
+                "url": "assets/sprites/sprite_damage_animations.json",
+                "type": "animation",
+                "key": "sprite_damage_animations"
+            },
+            {
+                "url": "assets/sprites/sprite_exaust_animations.json",
+                "type": "animation",
+                "key": "sprite_exaust_animations"
+            },
+            {
+                "url": "assets/sprites/sprite_exp_animations.json",
+                "type": "animation",
+                "key": "sprite_exp_animations"
+            },
+            {
+                "url": "assets/sprites/sprite_shot_animations.json",
+                "type": "animation",
+                "key": "sprite_shot_animations"
+            },
+            {
+                "atlasURL": "assets/sprites/traps/traps.json",
+                "textureURL": "assets/sprites/traps/traps.png",
+                "type": "atlas",
+                "key": "traps"
+            },
+            {
+                "url": "assets/sprites/traps_animations.json",
+                "type": "animation",
+                "key": "traps_animations"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

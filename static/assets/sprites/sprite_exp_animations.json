@@ -1,0 +1,4796 @@
+{
+    "anims": [
+        {
+            "key": "player_ship1_lvl1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl1_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl2_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship1_lvl7_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship1_lvl7_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl1_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl2_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship2_lvl7_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship2_lvl7_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl2_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl5_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 36,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_ship3_lvl7_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_ship3_lvl7_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_explotion11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 27,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 27,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 27,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 27,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl1_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 26,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl2_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl3_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 28,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl4_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 28,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl5_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 28,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl6_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 28,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss1_lvl7_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss1_lvl7_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 28,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl1_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 28,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl2_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl3_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl4_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl5_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl6_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss2_lvl7_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss2_lvl7_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl1_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl2_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl3_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl4_exp16.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 32,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl5_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl6_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl6_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss3_lvl7_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss3_lvl7_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

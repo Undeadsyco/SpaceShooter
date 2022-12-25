@@ -1,0 +1,1274 @@
+{
+    "anims": [
+        {
+            "key": "trap_bladebot_attack+exhaust",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bladebot_attack+exhaust10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_bomb_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 26,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_bomb_spikes",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_spikes1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_spikes2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_spikes3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_bomb_spikes4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_cannon_shot_exp_cycle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trap_cannon_shot_exp_end",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_cannon_shot_exp_start",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_cannon_shot_left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_left10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_cannon_shot_right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_right10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_cannon_shot_straight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_straight10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_kamikaze_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_exp9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 9,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_kamikaze_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_kamikaze_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trap_lizard_spikes",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_spikes1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_spikes2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_spikes3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_spikes4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_spikes5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_spikes6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_lizard_walking",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_walking1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_walking2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_lizard_walking3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 3,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trap_meteor",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_meteor1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_meteor2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_meteor3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_meteor4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_meteor5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_meteor6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 9,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trap_plaz_cannon_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_plaz_cannon_shot",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_plaz_cannon_shot8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trap_rocket_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 22,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_rocket_flight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_flight1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_flight2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_flight3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_flight4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trap_rocket_launch",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_launch1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_launch2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_launch3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_launch4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_launch5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_rocket_launch6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_tank_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_tank_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "trap_tank",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_tank1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_tank4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trap_canon_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_start4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_cycle6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "traps",
+                    "frame": "trap_cannon_shot_exp_end4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 14,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

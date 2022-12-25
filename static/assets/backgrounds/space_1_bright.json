@@ -1,0 +1,115 @@
+{
+  "frames": [
+    {
+      "filename": "back_stars.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 540
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 540
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 540
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "rocks1.png",
+      "frame": {
+        "x": 0,
+        "y": 540,
+        "w": 960,
+        "h": 540
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 540
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 540
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "rocks2.png",
+      "frame": {
+        "x": 0,
+        "y": 1080,
+        "w": 960,
+        "h": 540
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 540
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 540
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "rocks3.png",
+      "frame": {
+        "x": 0,
+        "y": 1620,
+        "w": 960,
+        "h": 540
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 540
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 540
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "space_1_bright.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 960,
+      "h": 2160
+    },
+    "scale": 1
+  }
+}

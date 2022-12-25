@@ -1,0 +1,3008 @@
+{
+    "anims": [
+        {
+            "key": "player_shot1_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot1_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot1_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot1_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot1_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot1_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot1_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot1_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot1_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot2_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot2_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot2_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot2_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot2_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot2_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot2_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot2_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot2_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot3_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot3_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot3_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot3_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot4_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot4_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot4_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot4_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot5_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot5_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_fire7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "player_shot5_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_shot5_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": "player_shot5_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship1_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship1_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship1_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship2_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship2_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship2_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship3_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 9,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship3_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship3_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship4_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship4_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship4_shot_exp9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship5_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship5_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship5_shot_exp8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship6_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "enemy_ship6_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "enemies",
+                    "frame": "enemy_ship6_shot_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship1_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship1_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship1_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship2_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship2_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship2_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship3_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship3_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship3_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship4_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_fire7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship4_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship4_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship5_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_fire7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship5_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship5_shot_exp9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 27,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship6_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_fire8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pirate_ship6_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pirate",
+                    "frame": "pirate_ship6_shot_exp8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship1_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship1_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship1_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship2_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship2_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship2_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship3_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship3_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship3_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship4_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship4_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship4_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship5_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship5_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship5_shot_exp8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship6_shot_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "alien_ship6_shot_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "aliens",
+                    "frame": "alien_ship6_shot_exp8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot1_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot1_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot1_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot2_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot2_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_exp4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_exp5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_exp6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot2_exp7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 21,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot3_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot3_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot3_exp16.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 48,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot4_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_fire8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot4_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot4_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 33,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot5_down_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_down_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_down_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_down_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_down_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot5_down_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_down_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_down_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_down_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp16.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp17.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp18.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp19.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp20.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 23,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot5_strait_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot5_strait_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait2_exp.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_strait_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp16.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp17.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp18.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp19.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp20.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 23,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot5_up_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_fire1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_fire2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_fire3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_fire4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_fire5.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boss_shot5_up_exp",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_exp1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_exp2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_up_exp3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp16.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp17.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp18.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp19.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bosses",
+                    "frame": "boss_shot5_exp20.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 23,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}
