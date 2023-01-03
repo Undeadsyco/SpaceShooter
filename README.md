@@ -5,7 +5,7 @@
 A project template for Phaser 3, Webpack 5, TypeScript, and Phaser Editor 2D v3.
 It also includes a workflow for deploying the game to GitHub Pages.
 
-## [Jump to about](#about)
+## [project details](#about)
 
 ## First steps
 
@@ -125,6 +125,7 @@ In many tutorials about Phaser Editor 2D, the JavaScript files are loaded using 
 The Scenes and User Components are configured to compile to TypeScript ES modules. Also, the compilers auto-import the classes used in the generated code.
 
 ## About
+## [Template Details](#first-steps)
 
 This project template was created by the Phaser Editor 2D team.
 # SpaceShooter

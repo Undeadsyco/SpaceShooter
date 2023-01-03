@@ -3,19 +3,14 @@
 
 /* START OF COMPILED CODE */
 
-import ShipTemplate from "./ShipTemplate";
-import SetShipTexture from "../../../components/SetShipTexture";
+import ShipTemplate from "../ShipTemplate";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 
-export default class Enemy extends ShipTemplate {
+export default class EnemyTemplate extends ShipTemplate {
 
 	constructor(scene: Phaser.Scene, x?: number, y?: number, texture?: string, frame?: number | string) {
-		super(scene, x ?? 34, y ?? 34, texture || "enemies", frame ?? "enemy_ship1.png");
-
-		// this (components)
-		const thisSetShipTexture = SetShipTexture.getComponent(this);
-		thisSetShipTexture.shipTexture = {"key":"enemies","frame":"enemy_ship1.png"};
+		super(scene, x ?? 0, y ?? 0, texture, frame);
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

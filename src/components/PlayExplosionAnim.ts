@@ -8,21 +8,21 @@ import ShipTemplate from "../prefabs/shipTemplates/ShipTemplate";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 
-export default class SetShipTexture extends UserComponent {
+export default class PlayExplosionAnim extends UserComponent {
 
 	constructor(gameObject: ShipTemplate) {
 		super(gameObject);
 
 		this.gameObject = gameObject;
-		(gameObject as any)["__SetShipTexture"] = this;
+		(gameObject as any)["__PlayExplosionAnim"] = this;
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.
 		/* END-USER-CTR-CODE */
 	}
 
-	static getComponent(gameObject: ShipTemplate): SetShipTexture {
-		return (gameObject as any)["__SetShipTexture"];
+	static getComponent(gameObject: ShipTemplate): PlayExplosionAnim {
+		return (gameObject as any)["__PlayExplosionAnim"];
 	}
 
 	private gameObject: ShipTemplate;
@@ -30,9 +30,6 @@ export default class SetShipTexture extends UserComponent {
 	/* START-USER-CODE */
 
 	// Write your code here.
-	start() {
-		if (this.gameObject.shipTexture) this.gameObject.setShipTexture(this.gameObject.shipTexture);
-	}
 
 	/* END-USER-CODE */
 }

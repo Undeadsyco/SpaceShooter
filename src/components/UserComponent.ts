@@ -54,7 +54,7 @@ export default class UserComponent {
         // override this
     }
 
-    protected update() {
+    protected update(time: number, delta: number) {
         // override this
     }
 

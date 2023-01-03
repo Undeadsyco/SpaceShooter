@@ -4,7 +4,7 @@
 /* START OF COMPILED CODE */
 
 import Phaser from "phaser";
-import Background from "./prefabs/backgrounds/Background";
+import Background from "../prefabs/backgrounds/Background";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 
@@ -55,7 +55,7 @@ export default class Title extends Phaser.Scene {
 	update(time: number, delta: number): void {
 			this.startBtn.setInteractive().on('pointerdown', () => {
 				this.scene.start('Level');
-			})
+			});
 	}
 
 	/* END-USER-CODE */

@@ -4,11 +4,11 @@
 /* START OF COMPILED CODE */
 
 import Phaser from "phaser";
-import Background from "./prefabs/backgrounds/Background";
-import ShipTemplate from "./prefabs/ships/ShipTemplate";
-import Player from "./prefabs/ships/Player";
+import Background from "../prefabs/backgrounds/Background";
+import Player from "../prefabs/entities/Player";
 /* START-USER-IMPORTS */
-import eventCenter from "..//utils/eventEmitter";
+import ShipTemplate from "../prefabs/shipTemplates/ShipTemplate";
+import eventCenter from "../utils/eventEmitter";
 /* END-USER-IMPORTS */
 
 export default class Level extends Phaser.Scene {
@@ -23,36 +23,36 @@ export default class Level extends Phaser.Scene {
 
 	editorCreate(): void {
 
-		// spaceBtn
-		const spaceBtn = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
-
 		// background
 		const background = new Background(this, 0, 0);
 		this.add.existing(background);
-		background.visible = true;
 		background.staticBg.setTexture("space_6_bright", "back_bright_0008_sky.png");
 
-		// shipTemplate
-		const shipTemplate = new ShipTemplate(this, 207, 244);
-		this.add.existing(shipTemplate);
-
 		// player
-		const player = new Player(this, 165, 89);
+		const player = new Player(this, 141, 245);
 		this.add.existing(player);
 
 		// lists
 		const projectiles: Array<any> = [];
+		const enemies: Array<any> = [];
 
-		this.player = player;
-		this.spaceBtn = spaceBtn;
+		// projectilesHitPlayer
+		this.physics.add.collider(player, projectiles);
+
+		// playerHitsEnemies
+		this.physics.add.collider(player, enemies);
+
+		// projectilesHitEnemies
+		this.physics.add.collider(enemies, projectiles);
+
 		this.projectiles = projectiles;
+		this.enemies = enemies;
 
 		this.events.emit("scene-awake");
 	}
 
-	private player!: Player;
-	private spaceBtn!: Phaser.Input.Keyboard.Key;
 	private projectiles!: Array<any>;
+	private enemies!: Array<any>;
 
 	/* START-USER-CODE */
 
@@ -67,23 +67,25 @@ export default class Level extends Phaser.Scene {
 
 	// Write your code here
 
-	create() {
-		this.scene.launch('UI');
+	private ships: ShipTemplate[] = [];
 
-		this.editorCreate();
-
-		this.player.create();
+	init(data: object) {
+		// console.log('data', data);
 	}
 
-	update(time: number, delta: number) {
-		this.player.update();
+	create() {
 
-		if (this.lvlTimer >= this.maxTime && this.lvlState === 'playing') {
-			console.log('gameOver')
-			eventCenter.emit('gameOver');
-			this.lvlState = 'defeat';
-		} else this.lvlTimer += delta;
+		this.editorCreate();
+		this.scene.launch('UI');
 
+		eventCenter.on('shipDestroyed', (destryedShip: ShipTemplate) => {
+			this.ships = this.ships.filter(ship => ship !== destryedShip);
+			destryedShip.destroy();
+		});
+
+		this.events.on(Phaser.Scenes.Events.DESTROY, () => {
+			eventCenter.off('shipDestroyed');
+		});
 	}
 
 
