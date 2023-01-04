@@ -41,6 +41,15 @@ export default class Level extends Phaser.Scene {
 		const projectiles: Array<any> = [];
 		const enemies: Array<any> = [];
 
+		// playerAndEnemies
+		this.physics.add.collider(player, enemies);
+
+		// playerAndProjectiles
+		this.physics.add.collider(player, projectiles);
+
+		// enemiesAndProjectiles
+		this.physics.add.collider(enemies, projectiles);
+
 		this.projectiles = projectiles;
 		this.enemies = enemies;
 
