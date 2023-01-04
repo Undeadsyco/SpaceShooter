@@ -4,7 +4,6 @@
 /* START OF COMPILED CODE */
 
 import Phaser from "phaser";
-import eventCenter from "../../../utils/eventEmitter";
 import StatBar from "./StatBar";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
@@ -57,7 +56,6 @@ export default class PlayerStatsContainer extends Phaser.GameObjects.Container {
 
 		statBars.forEach(statBar => {
 			statBar.create();
-			eventCenter.on(`${statBar.name}Decrement`, statBar.removeTick);
 		});
 		/* END-USER-CTR-CODE */
 	}

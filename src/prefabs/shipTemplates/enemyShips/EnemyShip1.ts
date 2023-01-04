@@ -5,6 +5,7 @@
 
 import EnemyTemplate from "./EnemyTemplate";
 /* START-USER-IMPORTS */
+import EnemyProjectile1 from "~/prefabs/projectileTemplates/enemyProjectiles/EnemyProjectile1";
 /* END-USER-IMPORTS */
 
 export default class EnemyShip1 extends EnemyTemplate {
@@ -21,9 +22,9 @@ export default class EnemyShip1 extends EnemyTemplate {
 		this.shipExhaustTexture = {"key":"enemies","frame":"enemy_ship1_flight1.png"};
 		this.shipFlightAnim = "enemy_ship1_flight";
 		this.shipTurboAnim = "enemy_ship1_turbo";
-		this.shipProjectileTexture = {"key":"enemies","frame":"enemy_ship1_shot.png"};
-		this.projectileFireAnim = "enemy_ship1_shot_fire";
-		this.projectileExpAnim = "enemy_ship1_shot_exp";
+		this.exhaustPos = {x:41,y:1};
+		this.weaponFirePos = {x:-30,y:0};
+		this.projectile = EnemyProjectile1;
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

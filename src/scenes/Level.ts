@@ -8,7 +8,7 @@ import Background from "../prefabs/backgrounds/Background";
 import Player from "../prefabs/entities/Player";
 /* START-USER-IMPORTS */
 import ShipTemplate from "../prefabs/shipTemplates/ShipTemplate";
-import eventCenter from "../utils/eventEmitter";
+import ProjectileTemplate from "../prefabs/projectileTemplates/ProjectileTemplate";
 /* END-USER-IMPORTS */
 
 export default class Level extends Phaser.Scene {
@@ -63,7 +63,7 @@ export default class Level extends Phaser.Scene {
 	private timer = 0;
 	private maxTime = 5000;
 	private lvlTimer = 0;
-	private lvlState: 'playing'|'victory'|'defeat' = 'playing';
+	private lvlState: 'playing' | 'victory' | 'defeat' = 'playing';
 
 	// Write your code here
 
@@ -76,15 +76,27 @@ export default class Level extends Phaser.Scene {
 	create() {
 
 		this.editorCreate();
-		this.scene.launch('UI');
+		// this.scene.launch('UI');
 
-		eventCenter.on('shipDestroyed', (destryedShip: ShipTemplate) => {
+		this.events.on('shipDestroyed', (destryedShip: ShipTemplate) => {
 			this.ships = this.ships.filter(ship => ship !== destryedShip);
 			destryedShip.destroy();
 		});
+		this.events.on('createProjectile', (projectile: ProjectileTemplate) => {
+			if (!projectile) return;
+			if (!this.projectiles.includes(projectile)) this.projectiles.push(projectile);
+			console.log('createProjectile')
+			this.add.existing(projectile);
+		});
+		this.events.on('removeProjectile', (destroyedProjectile: ProjectileTemplate) => {
+			if (!destroyedProjectile) return;
+			this.projectiles = this.projectiles.filter(projectile => projectile !== destroyedProjectile);
+			console.log('DestroyProjectile')
+			destroyedProjectile.destroy();
+		});
 
-		this.events.on(Phaser.Scenes.Events.DESTROY, () => {
-			eventCenter.off('shipDestroyed');
+		this.physics.world.on('worldbounds', ({ gameObject }: Phaser.Physics.Arcade.Body) => {
+			if (gameObject instanceof ProjectileTemplate) gameObject.play(gameObject.expAnim);
 		});
 	}
 

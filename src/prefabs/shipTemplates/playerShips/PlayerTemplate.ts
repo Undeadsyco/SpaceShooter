@@ -5,6 +5,7 @@
 
 import ShipTemplate from "../ShipTemplate";
 /* START-USER-IMPORTS */
+import PlayerProjectileTemplate from "../../../prefabs/projectileTemplates/playerProjectiles/PlayerProjectileTemplate";
 /* END-USER-IMPORTS */
 
 export default class PlayerTemplate extends ShipTemplate {
@@ -12,10 +13,10 @@ export default class PlayerTemplate extends ShipTemplate {
 	constructor(scene: Phaser.Scene, x?: number, y?: number, texture?: string, frame?: number | string) {
 		super(scene, x ?? 0, y ?? 0, texture || "__DEFAULT", frame);
 
+		this.body.collideWorldBounds = true;
+
 		// this (prefab fields)
-		this.shipProjectileTexture = {"key":"player","frame":"player_shot1.png"};
-		this.projectileFireAnim = "player_shot1_fire";
-		this.projectileExpAnim = "player_shot1_exp";
+		this.projectile = PlayerProjectileTemplate;
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

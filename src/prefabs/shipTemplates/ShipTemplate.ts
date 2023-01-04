@@ -4,8 +4,8 @@
 /* START OF COMPILED CODE */
 
 import Phaser from "phaser";
-import SetShipTexture from "../../components/SetShipTexture";
 /* START-USER-IMPORTS */
+import ProjectileTemplate from "../projectileTemplates/ProjectileTemplate";
 /* END-USER-IMPORTS */
 
 export default interface ShipTemplate {
@@ -21,9 +21,6 @@ export default class ShipTemplate extends Phaser.Physics.Arcade.Sprite {
 		scene.physics.add.existing(this, false);
 		this.body.setSize(32, 32, false);
 
-		// this (components)
-		new SetShipTexture(this);
-
 		/* START-USER-CTR-CODE */
 		// Write your code here.
 		/* END-USER-CTR-CODE */
@@ -34,12 +31,11 @@ export default class ShipTemplate extends Phaser.Physics.Arcade.Sprite {
 	public shipExhaustTexture!: {key:string,frame?:string|number};
 	public shipFlightAnim: string = "";
 	public shipTurboAnim: string = "";
-	public shipProjectileTexture!: {key:string,frame?:string|number};
-	public projectileFireAnim: string = "";
-	public projectileExpAnim: string = "";
 	public health: number = 10;
 	public exhaustPos!: { x:number, y:number };
 	public weaponFirePos!: { x:number, y:number };
+	public projectile: typeof ProjectileTemplate = ProjectileTemplate;
+	public speed: number = 200;
 
 	/* START-USER-CODE */
 
@@ -47,6 +43,11 @@ export default class ShipTemplate extends Phaser.Physics.Arcade.Sprite {
 
 	setShipTexture(texture: { key: string, frame?: string | number }) {
 		this.setTexture(texture.key, texture.frame);
+	}
+
+	createProjectile(x?: number, y?: number): ProjectileTemplate {
+		const projectile = new this.projectile(this.scene, x, y);
+		return projectile;
 	}
 
 	/* END-USER-CODE */

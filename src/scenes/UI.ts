@@ -6,7 +6,6 @@
 import Phaser from "phaser";
 import PlayerStatsContainer from "../prefabs/GUI/PlayerStatsView/PlayerStatsContainer";
 /* START-USER-IMPORTS */
-import eventCenter from "../utils/eventEmitter";
 /* END-USER-IMPORTS */
 
 export default class UI extends Phaser.Scene {
@@ -69,9 +68,6 @@ export default class UI extends Phaser.Scene {
 		// 	this.pauseContainer.setVisible(false);
 		// });
 
-		// eventCenter.on('gameOver', () => {
-		// 	this.defeteContainer.setVisible(true);
-		// });
 
 		// this.defeatCloseBtn.setInteractive().on('pointerdown', () => {
 		// 	this.scene.stop('Level');

@@ -3,21 +3,21 @@
 
 /* START OF COMPILED CODE */
 
-import ShipTemplate from "../ShipTemplate";
+import PlayerProjectileTemplate from "./PlayerProjectileTemplate";
 /* START-USER-IMPORTS */
-import EnemyProjectileTemplate from "../../../prefabs/projectileTemplates/enemyProjectiles/EnemyProjectileTemplate";
 /* END-USER-IMPORTS */
 
-export default class EnemyTemplate extends ShipTemplate {
+export default class PlayerProjectile2 extends PlayerProjectileTemplate {
 
 	constructor(scene: Phaser.Scene, x?: number, y?: number, texture?: string, frame?: number | string) {
-		super(scene, x ?? 0, y ?? 0, texture, frame);
+		super(scene, x ?? 0, y ?? 0, texture || "player", frame ?? "player_shot2.png");
 
-		this.flipX = true;
-		this.flipY = false;
+		this.body.setOffset(6, 32);
+		this.body.setSize(54, 2, false);
 
 		// this (prefab fields)
-		this.projectile = EnemyProjectileTemplate;
+		this.fireAnim = "player_shot2_fire";
+		this.expAnim = "player_shot2_exp";
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

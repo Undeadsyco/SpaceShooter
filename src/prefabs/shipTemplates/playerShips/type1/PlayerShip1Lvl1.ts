@@ -5,6 +5,7 @@
 
 import PlayerTemplate from "../PlayerTemplate";
 /* START-USER-IMPORTS */
+import PlayerProjectile1 from "../../../../prefabs/projectileTemplates/playerProjectiles/PlayerProjectile1";
 /* END-USER-IMPORTS */
 
 export default class PlayerShip1Lvl1 extends PlayerTemplate {
@@ -23,6 +24,7 @@ export default class PlayerShip1Lvl1 extends PlayerTemplate {
 		this.shipTurboAnim = "player_ship1_lvl1_turbo";
 		this.exhaustPos = { x:-55,y:0 };
 		this.weaponFirePos = { x:16,y:10 };
+		this.projectile = PlayerProjectile1;
 		this.shipDamageAnim = "player_ship1_lvl1_damage";
 
 		/* START-USER-CTR-CODE */

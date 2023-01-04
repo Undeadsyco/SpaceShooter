@@ -4,10 +4,7 @@
 /* START OF COMPILED CODE */
 
 import Phaser from "phaser";
-import SetPlayerTemplate from "../../components/SetPlayerTemplate";
-import SetPlayerExhaust from "../../components/SetPlayerExhaust";
-import FirePlayerWeapon from "../../components/FirePlayerWeapon";
-import MovePlayer from "../../components/MovePlayer";
+import InitPlayer from "../../components/InitPlayer";
 import PlayerTemplate from "../shipTemplates/playerShips/PlayerTemplate";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
@@ -41,12 +38,7 @@ export default class Player extends Phaser.GameObjects.Container {
 		const rightBtn = this.scene.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.RIGHT);
 
 		// this (components)
-		new SetPlayerTemplate(this);
-		const thisSetPlayerExhaust = new SetPlayerExhaust(this);
-		thisSetPlayerExhaust.exhaust = exhaust;
-		thisSetPlayerExhaust.template = template;
-		new FirePlayerWeapon(this);
-		new MovePlayer(this);
+		new InitPlayer(this);
 
 		this.template = template;
 		this.exhaust = exhaust;
@@ -70,7 +62,6 @@ export default class Player extends Phaser.GameObjects.Container {
 	private rightBtn: Phaser.Input.Keyboard.Key;
 	public shipType: "1"|"2"|"3" = "1";
 	public shipLvl: "1"|"2"|"3"|"4"|"5"|"6"|"7" = "1";
-	public speed: {x:number,y:number} = {x:100,y:75};
 
 	/* START-USER-CODE */
 
@@ -78,8 +69,10 @@ export default class Player extends Phaser.GameObjects.Container {
 
 	getTemplate() { return this.template; }
 	setTemplate(template: PlayerTemplate) {
+		const oldTemplate = this.template; 
 		this.template = template;
 		this.add(template);
+		oldTemplate.destroy();
 	}
 
 	getExhaust() { return this.exhaust; }
