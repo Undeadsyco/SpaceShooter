@@ -12,6 +12,9 @@ export default class PlayerProjectileTemplate extends ProjectileTemplate {
 	constructor(scene: Phaser.Scene, x?: number, y?: number, texture?: string, frame?: number | string) {
 		super(scene, x ?? 0, y ?? 0, texture, frame);
 
+		// this (prefab fields)
+		this.speed = 200;
+
 		/* START-USER-CTR-CODE */
 		// Write your code here.
 		/* END-USER-CTR-CODE */

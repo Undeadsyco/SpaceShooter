@@ -6,6 +6,7 @@
 import Phaser from "phaser";
 import Background from "../prefabs/backgrounds/Background";
 import Player from "../prefabs/entities/Player";
+import Enemy from "../prefabs/entities/Enemy";
 /* START-USER-IMPORTS */
 import ShipTemplate from "../prefabs/shipTemplates/ShipTemplate";
 import ProjectileTemplate from "../prefabs/projectileTemplates/ProjectileTemplate";
@@ -32,18 +33,13 @@ export default class Level extends Phaser.Scene {
 		const player = new Player(this, 141, 245);
 		this.add.existing(player);
 
+		// enemy
+		const enemy = new Enemy(this, 854, 153);
+		this.add.existing(enemy);
+
 		// lists
 		const projectiles: Array<any> = [];
 		const enemies: Array<any> = [];
-
-		// projectilesHitPlayer
-		this.physics.add.collider(player, projectiles);
-
-		// playerHitsEnemies
-		this.physics.add.collider(player, enemies);
-
-		// projectilesHitEnemies
-		this.physics.add.collider(enemies, projectiles);
 
 		this.projectiles = projectiles;
 		this.enemies = enemies;
@@ -59,7 +55,7 @@ export default class Level extends Phaser.Scene {
 	private width = 960;
 	private height = 540;
 	private maxEnemies = 20;
-	private interval = 150;
+	private interval = 1000/0.5;
 	private timer = 0;
 	private maxTime = 5000;
 	private lvlTimer = 0;
@@ -85,19 +81,26 @@ export default class Level extends Phaser.Scene {
 		this.events.on('createProjectile', (projectile: ProjectileTemplate) => {
 			if (!projectile) return;
 			if (!this.projectiles.includes(projectile)) this.projectiles.push(projectile);
-			console.log('createProjectile')
 			this.add.existing(projectile);
 		});
 		this.events.on('removeProjectile', (destroyedProjectile: ProjectileTemplate) => {
 			if (!destroyedProjectile) return;
 			this.projectiles = this.projectiles.filter(projectile => projectile !== destroyedProjectile);
-			console.log('DestroyProjectile')
 			destroyedProjectile.destroy();
 		});
 
 		this.physics.world.on('worldbounds', ({ gameObject }: Phaser.Physics.Arcade.Body) => {
 			if (gameObject instanceof ProjectileTemplate) gameObject.play(gameObject.expAnim);
 		});
+	}
+
+	update(time: number, delta: number): void {
+			if(this.timer>this.interval) {
+				const newEnemy = new Enemy(this);
+				newEnemy.setPosition(this.physics.world.bounds.width + newEnemy.width, Phaser.Math.Between(newEnemy.height, this.physics.world.bounds.height - newEnemy.height));
+				this.add.existing(newEnemy);
+				this.timer = 0;
+			} else this.timer += delta;
 	}
 
 

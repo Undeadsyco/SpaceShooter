@@ -48,8 +48,8 @@ export default class InitPlayer extends UserComponent {
 		const currentTemplate = this.gameObject.getTemplate();
 		const { shipLvl, shipType, shootBtn } = this.gameObject;
 
-		const lvl = parseInt(shipType)-1;
-		const type = parseInt(shipLvl)-1;
+		const lvl = parseInt(shipLvl)-1;
+		const type = parseInt(shipType)-1;
 		const TemplateType = PlayerTypeTemplates[lvl][type];
 
 		this.template = new TemplateType(this.gameObject.scene, currentTemplate.x, currentTemplate.y);
@@ -64,6 +64,10 @@ export default class InitPlayer extends UserComponent {
 		const { x,  y, exhaustPos } = this.template;
 
 		this.exhaust.x = x + exhaustPos.x, this.exhaust.y = y + exhaustPos.y;
+		const { upBtn, downBtn, leftBtn, rightBtn } = this.gameObject.getInputs();
+		if (upBtn.isUp && downBtn.isUp) this.template.setVelocityY(0);
+		if (leftBtn.isUp && rightBtn.isUp) this.template.setVelocityX(0);
+		this.timer += delta;
 	}
 
 	updateVariables() {
@@ -103,6 +107,8 @@ export default class InitPlayer extends UserComponent {
 		const { x: tempPosX, y: tempPosY, weaponFirePos: { x: weaponPosX, y: weaponPosY } } = template;
 		const projectileX = thisPosX + tempPosX + weaponPosX, projectileY = thisPosY + tempPosY + weaponPosY;
 		const projectile = template.createProjectile(projectileX, projectileY);
+		projectile.setVelocityX(this.gameObject.template.body.velocity.x);
+		console.log(projectile);
 		this.scene.events.emit('createProjectile', projectile);
 	}
 

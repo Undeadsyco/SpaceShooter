@@ -5,7 +5,7 @@
 
 import EnemyTemplate from "./EnemyTemplate";
 /* START-USER-IMPORTS */
-import EnemyProjectile6 from "~/prefabs/projectileTemplates/enemyProjectiles/EnemyProjectile6";
+import EnemyProjectile6 from "../../../prefabs/projectileTemplates/enemyProjectiles/EnemyProjectile6";
 /* END-USER-IMPORTS */
 
 export default class EnemyShip6 extends EnemyTemplate {

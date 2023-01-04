@@ -53,7 +53,7 @@ export default class Player extends Phaser.GameObjects.Container {
 		/* END-USER-CTR-CODE */
 	}
 
-	private template: PlayerTemplate;
+	public template: PlayerTemplate;
 	private exhaust: Phaser.GameObjects.Sprite;
 	public shootBtn: Phaser.Input.Keyboard.Key;
 	private upBtn: Phaser.Input.Keyboard.Key;

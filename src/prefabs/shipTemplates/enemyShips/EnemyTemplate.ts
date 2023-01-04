@@ -18,6 +18,7 @@ export default class EnemyTemplate extends ShipTemplate {
 
 		// this (prefab fields)
 		this.projectile = EnemyProjectileTemplate;
+		this.speed = -100;
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

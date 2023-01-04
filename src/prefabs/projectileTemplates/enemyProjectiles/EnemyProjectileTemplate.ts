@@ -18,7 +18,6 @@ export default class EnemyProjectileTemplate extends ProjectileTemplate {
 		// this (prefab fields)
 		this.fireAnim = "";
 		this.expAnim = "";
-		this.speed = -200;
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

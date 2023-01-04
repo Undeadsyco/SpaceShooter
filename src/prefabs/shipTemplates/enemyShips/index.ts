@@ -1,7 +1,10 @@
-export {default as EnemyTemplate} from './EnemyTemplate';
-export { default as EnemyShip1 } from './EnemyShip1';
-export { default as EnemyShip2 } from './EnemyShip2';
-export { default as EnemyShip3 } from './EnemyShip3';
-export { default as EnemyShip4 } from './EnemyShip4';
-export { default as EnemyShip5 } from './EnemyShip5';
-export { default as EnemyShip6 } from './EnemyShip6';
+import EnemyShip1 from './EnemyShip1';
+import EnemyShip2 from './EnemyShip2';
+import EnemyShip3 from './EnemyShip3';
+import EnemyShip4 from './EnemyShip4';
+import EnemyShip5 from './EnemyShip5';
+import EnemyShip6 from './EnemyShip6';
+const EnemyTemplates = [EnemyShip1, EnemyShip2, EnemyShip3, EnemyShip4, EnemyShip5, EnemyShip6];
+export default EnemyTemplates;
+export { default as EnemyTemplate } from './EnemyTemplate';
+

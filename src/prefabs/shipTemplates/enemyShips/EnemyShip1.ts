@@ -5,7 +5,7 @@
 
 import EnemyTemplate from "./EnemyTemplate";
 /* START-USER-IMPORTS */
-import EnemyProjectile1 from "~/prefabs/projectileTemplates/enemyProjectiles/EnemyProjectile1";
+import EnemyProjectile1 from "../../../prefabs/projectileTemplates/enemyProjectiles/EnemyProjectile1";
 /* END-USER-IMPORTS */
 
 export default class EnemyShip1 extends EnemyTemplate {
@@ -13,7 +13,7 @@ export default class EnemyShip1 extends EnemyTemplate {
 	constructor(scene: Phaser.Scene, x?: number, y?: number, texture?: string, frame?: number | string) {
 		super(scene, x ?? 0, y ?? 0, texture || "enemies", frame ?? "enemy_ship1.png");
 
-		this.body.setOffset(2, 17);
+		this.body.setOffset(3, 17);
 		this.body.setSize(59, 29, false);
 
 		// this (prefab fields)
@@ -25,6 +25,7 @@ export default class EnemyShip1 extends EnemyTemplate {
 		this.exhaustPos = {x:41,y:1};
 		this.weaponFirePos = {x:-30,y:0};
 		this.projectile = EnemyProjectile1;
+		this.speed = -100;
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

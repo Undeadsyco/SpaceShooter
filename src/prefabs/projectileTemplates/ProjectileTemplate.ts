@@ -35,7 +35,7 @@ export default class ProjectileTemplate extends Phaser.Physics.Arcade.Sprite {
 	public fireAnim: string = "";
 	public expAnim: string = "";
 	public img!: {key:string,frame?:string|number};
-	public speed: number = 200;
+	public speed: number = -200;
 
 	/* START-USER-CODE */
 
