@@ -50,12 +50,14 @@ export default class Title extends Phaser.Scene {
 	create() {
 
 		this.editorCreate();
+
+		this.startBtn.setInteractive().on('pointerdown', () => {
+			this.scene.start('Level');
+		});
 	}
 
 	update(time: number, delta: number): void {
-			this.startBtn.setInteractive().on('pointerdown', () => {
-				this.scene.start('Level');
-			});
+
 	}
 
 	/* END-USER-CODE */

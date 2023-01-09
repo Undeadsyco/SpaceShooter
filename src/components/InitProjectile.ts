@@ -29,31 +29,16 @@ export default class InitProjectile extends UserComponent {
 
 	/* START-USER-CODE */
 
-	private idleCount: number = 0;
-	private lastX: number = 0;
-
 	// Write your code here.
 
 	start() {
-		const { img, fireAnim, expAnim, speed } = this.gameObject;
-		if (img) this.gameObject.setTexture(img.key, img.frame);
-		this.gameObject.on(`${Phaser.Animations.Events.ANIMATION_COMPLETE_KEY}${fireAnim}`, () => {
-			if (img) this.gameObject.setTexture(img.key, img.frame);
-			this.gameObject.setVelocityX(this.gameObject.body.velocity.x + speed);
-		});
-		this.gameObject.on(`${Phaser.Animations.Events.ANIMATION_COMPLETE_KEY}${expAnim}`, () => {
-			this.scene.events.emit('removeProjectile', this.gameObject);
-		});
-
-		this.gameObject.play(fireAnim);
+		this.gameObject.setEvents();
+		this.gameObject.setVelocityX(this.gameObject.parent.body.velocity.x);
+		this.gameObject.playAnim('fire');
 	}
 
-	update() {
-		if (this.lastX === this.gameObject.x) this.idleCount++;
-		else this.lastX = this.gameObject.x;
-		if(this.gameObject.body?.velocity.x === 0) this.gameObject.setVelocityX(this.gameObject.speed);
-
-		if (this.idleCount > 10) this.gameObject.destroy();
+	protected update(time: number, delta: number): void {
+		this.gameObject.update(time, delta);
 	}
 
 	/* END-USER-CODE */

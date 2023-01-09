@@ -6,6 +6,7 @@
 import Phaser from "phaser";
 /* START-USER-IMPORTS */
 import ProjectileTemplate from "../projectileTemplates/ProjectileTemplate";
+import EventCenter from "../../utils/EventCenter";
 /* END-USER-IMPORTS */
 
 export default interface ShipTemplate {
@@ -19,6 +20,8 @@ export default class ShipTemplate extends Phaser.Physics.Arcade.Sprite {
 		super(scene, x ?? 0, y ?? 0, texture || "__DEFAULT", frame);
 
 		scene.physics.add.existing(this, false);
+		this.body.mass = 10;
+		this.body.pushable = false;
 		this.body.setSize(32, 32, false);
 
 		/* START-USER-CTR-CODE */
@@ -39,15 +42,27 @@ export default class ShipTemplate extends Phaser.Physics.Arcade.Sprite {
 
 	/* START-USER-CODE */
 
+	private emitter: EventCenter = EventCenter.getInstance();
+
 	// Write your code here.
 
-	setShipTexture(texture: { key: string, frame?: string | number }) {
-		this.setTexture(texture.key, texture.frame);
+	update(time: number, delta: number) {
+		super.preUpdate(time, delta);
 	}
 
-	createProjectile(x?: number, y?: number): ProjectileTemplate {
-		const projectile = new this.projectile(this.scene, x, y);
-		return projectile;
+	setShipTexture() {
+		const { shipTexture: { key, frame } } = this;
+		this.setTexture(key, frame);
+	}
+
+	playAnim(anim?: string) {
+		this.anims.play(this.shipExpAnim, true);
+	}
+
+	loseHealth() {
+		console.log('adjust template health', this.health)
+		this.health -= 5;
+		if (this.health <= 0) this.playAnim();
 	}
 
 	/* END-USER-CODE */

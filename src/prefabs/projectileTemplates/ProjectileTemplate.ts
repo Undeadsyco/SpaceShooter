@@ -6,6 +6,9 @@
 import Phaser from "phaser";
 import InitProjectile from "../../components/InitProjectile";
 /* START-USER-IMPORTS */
+import EventCenter from "../../utils/EventCenter";
+import Enemy from "../entities/Enemy";
+import Player from "../entities/Player";
 /* END-USER-IMPORTS */
 
 export default interface ProjectileTemplate {
@@ -19,7 +22,6 @@ export default class ProjectileTemplate extends Phaser.Physics.Arcade.Sprite {
 		super(scene, x ?? 0, y ?? 0, texture || "__DEFAULT", frame);
 
 		scene.physics.add.existing(this, false);
-		this.body.collideWorldBounds = true;
 		this.body.setSize(32, 32, false);
 
 		// this (components)
@@ -27,8 +29,6 @@ export default class ProjectileTemplate extends Phaser.Physics.Arcade.Sprite {
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.
-		this.body.onCollide = true;
-		this.body.onWorldBounds = true;
 		/* END-USER-CTR-CODE */
 	}
 
@@ -36,12 +36,37 @@ export default class ProjectileTemplate extends Phaser.Physics.Arcade.Sprite {
 	public expAnim: string = "";
 	public img!: {key:string,frame?:string|number};
 	public speed: number = -200;
+	public parent!: Enemy | Player;
 
 	/* START-USER-CODE */
 
+	private emitter: EventCenter = EventCenter.getInstance();
+
 	// Write your code here.
 
-	getAnimations() { return ({ fireAnim: this.fireAnim, expAnim: this.expAnim }); }
+	setParent(parent: Enemy | Player): this {
+		this.parent = parent; return this;
+	}
+
+	playAnim(anim: 'fire' | 'exp') {
+		anim === 'fire' ? this.anims.play(this.fireAnim) : this.anims.play(this.expAnim);
+	}
+
+	setEvents() {
+		this.on(`${Phaser.Animations.Events.ANIMATION_COMPLETE_KEY}${this.fireAnim}`, () => {
+			this.setTexture(this.img.key, this.img.frame);
+			this.setVelocityX(this.body.velocity.x + this.speed);
+		});
+
+		this.on(`${Phaser.Animations.Events.ANIMATION_COMPLETE_KEY}${this.expAnim}`, () => {
+			this.destroy();
+		});
+	}
+
+	update(time: number, delta: number) {
+		const world = this.scene?.physics.world.bounds;
+		if (world && (this.x + (this.width * 0.5) < world.x || this.x + (this.width * 0.5) > world.width)) this.emitter.emit('removeProjectile', this);
+	}
 
 	/* END-USER-CODE */
 }

@@ -18,6 +18,7 @@ export default class EnemyProjectile6 extends EnemyProjectileTemplate {
 		// this (prefab fields)
 		this.fireAnim = "enemy_ship6_shot_fire";
 		this.expAnim = "enemy_ship6_shot_exp";
+		this.img = {"key":"enemies","frame":"enemy_ship6_shot.png"};
 
 		/* START-USER-CTR-CODE */
 		// Write your code here.

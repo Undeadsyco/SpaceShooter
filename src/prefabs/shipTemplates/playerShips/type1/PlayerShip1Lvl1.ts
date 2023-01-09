@@ -17,13 +17,13 @@ export default class PlayerShip1Lvl1 extends PlayerTemplate {
 		this.body.setSize(89, 26, false);
 
 		// this (prefab fields)
-		this.shipTexture = {"key":"player","frame":"player_ship1_lvl1.png"};
-		this.shipExpAnim = "player_ship1_lvl1_damage";
-		this.shipExhaustTexture = {"key":"player","frame":"player_ship1_lvl1_flight1.png"};
+		this.shipTexture = { "key": "player", "frame": "player_ship1_lvl1.png" };
+		this.shipExpAnim = "player_ship1_lvl1_exp";
+		this.shipExhaustTexture = { "key": "player", "frame": "player_ship1_lvl1_flight1.png" };
 		this.shipFlightAnim = "player_ship1_lvl1_flight";
 		this.shipTurboAnim = "player_ship1_lvl1_turbo";
-		this.exhaustPos = { x:-55,y:0 };
-		this.weaponFirePos = { x:16,y:10 };
+		this.exhaustPos = { x: -55, y: 0 };
+		this.weaponFirePos = { x: 16, y: 10 };
 		this.projectile = PlayerProjectile1;
 		this.shipDamageAnim = "player_ship1_lvl1_damage";
 

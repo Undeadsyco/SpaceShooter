@@ -23,7 +23,7 @@ export default class EnemyShip4 extends EnemyTemplate {
 		this.shipFlightAnim = "enemy_ship4_flight";
 		this.shipTurboAnim = "enemy_ship4_turbo";
 		this.exhaustPos = {x:64,y:1};
-		this.weaponFirePos = {x:50,y:4};
+		this.weaponFirePos = {x:-50,y:4};
 		this.projectile = EnemyProjectile4;
 
 		/* START-USER-CTR-CODE */

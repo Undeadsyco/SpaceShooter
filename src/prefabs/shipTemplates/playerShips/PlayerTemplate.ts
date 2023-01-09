@@ -32,6 +32,16 @@ export default class PlayerTemplate extends ShipTemplate {
 
 	// Write your code here.
 
+	playAnim(anim: 'damage'|'exp') {
+		anim === 'damage' ? this.anims.play(this.shipDamageAnim) : super.playAnim(); 
+	}
+
+	loseHealth() {
+		this.health -= 5;
+		if (this.health <= 0) this.playAnim('exp');
+		else this.playAnim('damage');
+	}
+
 	/* END-USER-CODE */
 }
 
